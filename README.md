@@ -8,7 +8,7 @@ simulates flames in a retro style.
 
 * The bottom of the window is programmed as a permanent white layer 
 
-* There is a decay constant with which the flame in each pixel has a chance of disappearing eacn flame
+* There is a decay constant with which the flame in each pixel has a chance of disappearing each flame
 
 * There is also a sideways propagation constant such that a pixel jumps to the left randomly
 
