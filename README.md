@@ -1,6 +1,6 @@
 # Flames
 
-simulates flames in a retro style.
+simulates flames in a retro style (akin to classic game DOOM).
 
 * This code uses 32 set colour codes from white to orange to red
 
